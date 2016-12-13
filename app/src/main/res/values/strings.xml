@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONExample</string>
+    <string name="info">Press retrieve to get json data.</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
